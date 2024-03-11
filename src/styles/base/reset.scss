@@ -1,0 +1,34 @@
+/* Reset CSS */
+
+/* Set margin dan padding menjadi 0 untuk semua elemen */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box; /* Membuat elemen menghitung padding dan border dalam ukuran totalnya */
+}
+
+/* Ganti beberapa properti standar */
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+ul,
+ol {
+  margin: 0;
+  padding: 0;
+}
+
+/* Ganti gaya default hyperlink */
+a {
+  text-decoration: none; /* Hilangkan garis bawah pada link */
+  color: inherit; /* Warisan warna teks */
+}
+
+/* Tambahkan gaya font default jika diperlukan */
+body {
+  font-family: Arial, sans-serif;
+}
