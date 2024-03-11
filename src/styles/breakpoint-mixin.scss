@@ -1,0 +1,81 @@
+// Breakpoint mixin
+@mixin breakpoint($point) {
+  @if $point == MobileSmall {
+    @media (min-width: 320px) {
+      @content;
+    }
+  } @else if $point == MobileMedium {
+    @media (min-width: 375px) {
+      @content;
+    }
+  } @else if $point == MobileLarge {
+    @media (min-width: 425px) {
+      @content;
+    }
+  } @else if $point == Tablet {
+    @media (min-width: 768px) {
+      @content;
+    }
+  } @else if $point == LaptopSmall {
+    @media (min-width: 992px) {
+      @content;
+    }
+  } @else if $point == LaptopMedium {
+    @media (min-width: 1200px) {
+      @content;
+    }
+  } @else if $point == LaptopLarge {
+    @media (min-width: 1440px) {
+      @content;
+    }
+  }
+}
+
+// Mixin untuk MobileSmall
+@mixin mobile-small {
+  @include breakpoint(MobileSmall) {
+    @content;
+  }
+}
+
+// Mixin untuk MobileMedium
+@mixin mobile-medium {
+  @include breakpoint(MobileMedium) {
+    @content;
+  }
+}
+
+// Mixin untuk MobileLarge
+@mixin mobile-large {
+  @include breakpoint(MobileLarge) {
+    @content;
+  }
+}
+
+// Mixin untuk Tablet
+@mixin tablet {
+  @include breakpoint(Tablet) {
+    @content;
+  }
+}
+
+// Mixin untuk LaptopSmall
+@mixin laptop-small {
+  @include breakpoint(LaptopSmall) {
+    @content;
+  }
+}
+
+// Mixin untuk LaptopMedium
+@mixin laptop-medium {
+  @include breakpoint(LaptopMedium) {
+    @content;
+  }
+}
+
+// Mixin untuk LaptopLarge
+@mixin laptop-large {
+  @include breakpoint(LaptopLarge) {
+    @content;
+  }
+}
