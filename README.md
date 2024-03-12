@@ -24,7 +24,7 @@ This portfolio reflects my journey as a developer. It's a space where I share my
 
 To view the website locally, follow these steps:
 
-1. Clone this repository: `[git clone https://github.com/your-username/my-portfolio.git](https://github.com/dysels/MyPortfolio)`
+1. Clone this repository: `git clone https://github.com/dysels/MyPortfolio.git`
 2. Navigate to the project directory: `cd MyPortfolio`
 3. Open `index.html` in your web browser.
 
