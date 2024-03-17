@@ -32,10 +32,6 @@ To view the website locally, follow these steps:
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Contact Me
 
 If you have any questions or inquiries, don't hesitate to reach out:
