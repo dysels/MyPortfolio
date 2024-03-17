@@ -1,7 +1,6 @@
 # My Portfolio
 
 ## Key Features
-
 - **Home**: Get to know more about me and my story.
 - **About**: Learn about my background and skills.
 - **Achievements**: Discover my notable achievements and awards.
