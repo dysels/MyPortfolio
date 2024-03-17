@@ -1,11 +1,5 @@
 # My Portfolio
 
-Welcome to My Portfolio repository! This is where I showcase my personal portfolio website. Here, you'll find insights into who I am, the projects I've worked on, my achievements, and more.
-
-## About Me
-
-This portfolio reflects my journey as a developer. It's a space where I share my skills, experiences, and projects. Consider it my digital resume and a platform to display my work to potential clients or employers.
-
 ## Key Features
 
 - **Home**: Get to know more about me and my story.
