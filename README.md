@@ -12,14 +12,9 @@
 
 ## Getting Started
 To view the website locally, follow these steps:
-1. Clone this repository: `git clone https://github.com/dysels/MyPortfolio.git`
-2. Navigate to the project directory: `cd MyPortfolio`
+1. Clone this repository: `git clone https://github.com/dysels/my-portfolio.git`
+2. Navigate to the project directory: `cd my-portfolio`
 3. Open `index.html` in your web browser.
 
 ## Contributing
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, feel free to submit a pull request.
-
-## Contact Me
-If you have any questions or inquiries, don't hesitate to reach out:
-- Email: farelaranta175@gmail.com
-- Portfolio: [https://my-portfolio-dysels-projects.vercel.app/](https://my-portfolio-dysels-projects.vercel.app/)
